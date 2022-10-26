@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='google_trans_new',
-      version='1.2.0',
+      version='1.2.1',
       description='Google translate new',
       author='...',
       author_email='gward@python.net',
