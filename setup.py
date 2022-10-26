@@ -8,5 +8,5 @@ setup(name='google-trans-new',
       author='...',
       author_email='gward@python.net',
       url='https://www.python.org/sigs/distutils-sig/',
-      packages=['google_trans_new'],
+      packages=find_packages(exclude=['test']),
      )
