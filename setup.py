@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='google_trans_new',
+setup(name='google-trans-new',
       version='1.2.1',
       description='Google translate new',
       author='...',
